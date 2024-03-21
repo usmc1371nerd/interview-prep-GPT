@@ -84,5 +84,5 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 //I had to use chatGPt to work through some of the functions and the DOM manipulation.
-//I was on the write track most of the time with working through the problems outloud
+//I was on the right track most of the time with working through the problems outloud
 //I just needed help with writing the code in the correct syntax..
